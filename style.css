@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+.SNMVlogo{
+    height: 217px;
+width: 1392px;
+}
+
+.flash{
+    height: 233px;
+    width: 1554px;
+    margin-top: -80px;
+  
+}
+.c{
+    height: 278px;
+width: 736px;
+margin-left: 381px;
+}
+
+
+
+.balloon{
+    position: relative;
+    left: 77%;
+    margin-top: -20px;
+    height: 273px;
+    width: 358px;
+}
+.balloon2{
+    position: relative;
+    right: 30%;
+    margin-top: -262px;
+    height: 333;
+    width: 560px;
+}
+
+
+@media screen and (max-width: 600px) {
+    * {
+        margin: 0;
+        padding: 0;
+      }
+      
+    .SNMVlogo{
+        height: 97px;
+        width: 403px;
+    }  
+    .flash{
+        height: 233px;
+    width: 424px;
+    margin-top: -80px;
+    }
+    .c{
+        height: 211px;
+        width: 431px;
+        margin-top: -298px;
+    }
+    
+    
+    
+    .balloon{
+        position: relative;
+        left: 30%;
+        margin-top: -20px;
+        height: 306px;
+    }
+    .balloon2{
+        position: relative;
+        right: 30%;
+        margin-top: -262px;
+        height: 306px;
+    }
+
+}
