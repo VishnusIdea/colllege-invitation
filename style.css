@@ -51,21 +51,23 @@ margin-left: 381px;
     }
     .c{
         height: 211px;
-        width: 431px;
+        width: 404px;
+        margin-left: 1px;
         margin-top: -298px;
+      }
     }
     
     
     
     .balloon{
         position: relative;
-        left: 30%;
+        left: 37%;
         margin-top: -20px;
         height: 306px;
     }
     .balloon2{
         position: relative;
-        right: 30%;
+        right: 46%;
         margin-top: -262px;
         height: 306px;
     }
