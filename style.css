@@ -40,6 +40,11 @@ margin-left: 381px;
 
 @media screen and (max-width: 600px) {
    
+    * {
+        margin: 0;
+        padding: 0;
+      }
+
     .SNMVlogo{
         height: 97px;
         width: 403px;
@@ -57,7 +62,7 @@ margin-left: 381px;
       }
     
     .balloon{
-        
+
         position: relative;
         left: 37%;
         margin-top: -20px;
